@@ -78,6 +78,10 @@ assignment so you do not have to download the data separately.
 
 Show any code that is needed to
 
+
+
+
+
 1. Load the data (i.e. `read.csv()`)
 
 2. Process/transform the data (if necessary) into a format suitable for your analysis
